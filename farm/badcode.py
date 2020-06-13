@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 """
 Fails too many test cases and
 there's too many lines of code
 """
+=======
+# Fails multiple test cases and
+# there's too many lines of code
+>>>>>>> c7ea88d1114f7ef09d5176765375b30b98cb8255
 
 chicken = 23
 goat = 678
