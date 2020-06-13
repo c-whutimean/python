@@ -1,4 +1,3 @@
-"""
 Elif statement -> The Farm
 
 In a farming game, you can buy certain animals for a specific price. 
@@ -22,4 +21,3 @@ The money that the user has.
 The output format:
 How many animals the user can afford, for example, 20 chickens or 4 cows. 
 If the user cannot afford any animal, write None.
-""" 
