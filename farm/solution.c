@@ -1,5 +1,7 @@
-# Shortened code and 
-# decided to go from most to least expensive
+# Shortened code
+# Decided to go from most to least expensive
+# Score 3/4: "Too complex function. You can figure out how to simplify this code or split it into a set of small functions / methods. 
+# It will make your code easy to understand and less error prone."
 
 chicken = 23
 goat = 678
