@@ -35,4 +35,6 @@ None
 Sample Input:
 668
 Sample Output:
-29 chickens 
+29 chickens
+
+“The Farm – Elif Statement – JetBrains Academy.” JetBrains Academy, Powered by Hyperskill, hyperskill.org/learn/step/6534#solutions.
