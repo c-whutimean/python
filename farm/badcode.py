@@ -1,4 +1,4 @@
-icken = 23
+chicken = 23
 goat = 678
 pig = 1296
 cow = 3848
