@@ -1,3 +1,6 @@
+# Fails multiple test cases and
+# there's too many lines of code
+
 chicken = 23
 goat = 678
 pig = 1296
