@@ -1,3 +1,5 @@
+# I could probably create functions instead of using conditional statements
+
 money = 550
 water = 400
 milk = 540
