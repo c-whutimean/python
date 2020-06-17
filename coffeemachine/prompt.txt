@@ -89,3 +89,4 @@ The coffee machine has:
 0 of money
 
 Property of JetBrains Academy
+https://hyperskill.org/projects/68/stages/369/implement#solutions 
