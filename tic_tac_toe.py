@@ -25,7 +25,6 @@ o_wins = 0
 x_count = 0
 o_count = 0
 _count = 0
-print(wins)
 entire_board = [across_win, down_win, diag_win]
 each_one = [line for section in entire_board for line in section]
 
@@ -53,6 +52,7 @@ print('o_wins=', o_wins)
 print('x_count= ', x_count)
 print('o_count=', o_count)
 """
+
 if x_wins == o_wins and wins == -1 or ((x_count - o_count >= 2 or o_count - x_count >= 2) and _count > 0):
     print("Impossible")
 elif _count > x_count or _count > o_count:
