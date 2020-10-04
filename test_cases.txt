@@ -1,0 +1,63 @@
+Enter cells: > XXXOO__O_
+---------
+| X X X |
+| O O _ |
+| _ O _ |
+---------
+X wins
+
+Enter cells: > XOXOXOXXO
+---------
+| X O X |
+| O X O |
+| X X O |
+---------
+X wins
+
+Enter cells: > XOOOXOXXO
+---------
+| X O O |
+| O X O |
+| X X O |
+---------
+O wins
+
+Enter cells: > XOXOOXXXO
+---------
+| X O X |
+| O O X |
+| X X O |
+---------
+Draw
+
+Enter cells: > XO_OOX_X_
+---------
+| X O   |
+| O O X |
+|   X   |
+---------
+Game not finished
+
+Enter cells: > XO_XO_XOX
+---------
+| X O _ |
+| X O _ |
+| X O X |
+---------
+Impossible
+
+Enter cells: > _O_X__X_X
+---------
+|   O   |
+| X     |
+| X   X |
+---------
+Impossible
+
+Enter cells: > _OOOO_X_X
+---------
+|   O O |
+| O O   |
+| X   X |
+---------
+Impossible
