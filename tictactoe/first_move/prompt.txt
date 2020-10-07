@@ -1,0 +1,19 @@
+The program should work in the following way:
+
+Get the 3x3 field from the input as in the previous stages.
+Output this 3x3 field with cells before the user's move.
+Then ask the user about his next move.
+Then the user should input 2 numbers that represent the coordinates of the cell which they want to mark X or O.
+(9 symbols representing the field would be on the first line and these 2 numbers would be on the second line of the user input)
+Analyze user input and show these messages in the following situations:
+-"This cell is occupied! Choose another one!" if the cell is not empty;
+-"You should enter numbers!" if the user enters other symbols instead of numbers;
+-"Coordinates should be from 1 to 3!" if the user goes beyond the field.
+Then output the table including the user's most recent move.
+The program should also check user input. If it's unsuitable, the program should ask them to enter their coordinates once again.
+
+So, you need to output a field from the first line of the input and then ask the user to make their move. 
+Keep asking until the user enters coordinates that represent an empty cell on the field
+and after that output the field with that move. 
+You should output the field only 2 times, before and after a correct move.
+
